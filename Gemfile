@@ -1,7 +1,7 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'rspec'
-gem 'rake'
-gem 'pry'
 gem 'activesupport'
 gem 'byebug'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
